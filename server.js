@@ -6,10 +6,13 @@ const cors = require('cors');
 const rootRoute = require('./routes/root');
 const aboutRoute = require('./routes/about');
 const usersRoute = require('./routes/api/users');
+const signUpRoute = require('./routes/api/signUp');
+const signInRoute = require('./routes/api/signIn');
+const profileRoute = require('./routes/api/profile');
 
 const PORT = process.env.PORT || 5000;
 const URL = process.env.URL || 'http://localhost';
-const whiteList = ['http://localhost'];
+const whiteList = ['http://localhost:5000'];
 const corsOptions = {
     origin: (origin, callback) => {
         if(whiteList.indexOf(origin) !== -1 || !origin) {
@@ -32,6 +35,9 @@ app.use(express.static(path.join(__dirname, 'client/build/static')));
 app.use('/', rootRoute);
 app.use('/about', aboutRoute);
 app.use('/users', usersRoute);
+app.use('/sign-up', signUpRoute);
+app.use('/sign-in', signInRoute);
+app.use('/profile', profileRoute);
 
 app.all('*', (request, response) => {
     response.status(404);

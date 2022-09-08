@@ -1,18 +1,1 @@
-55658ec6-fa76-4eec-b09c-3085b580bad9	04.09.2022 22:38:03		Error: Not allowed by CORS
-05c8ce07-a065-45a7-9e63-f8b78fc0760e	04.09.2022 22:39:11		Error: Not allowed by CORS
-a2eb8d48-7d7e-4c2e-9bee-23255eb7cf8d	04.09.2022 23:03:04		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-2df84dc0-1dbe-4b61-804b-81b8999e61f6	04.09.2022 23:03:09		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-090068db-cd7a-4915-879c-b439b43cf387	04.09.2022 23:03:11		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-5869a499-329b-45ae-aabe-c1e6149681f5	04.09.2022 23:03:23		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-5c3b10e7-266f-4e20-b8ed-d06b5b850abc	04.09.2022 23:03:39		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-52c193d2-a988-4631-8952-5fd12749ed2d	06.09.2022 22:52:59		Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
-925d762f-0014-40d3-a3f7-f935cfc204eb	07.09.2022 11:44:51		Error: Internal server error
-7ef55afd-6dcd-4ac2-8196-1867e40e76e7	07.09.2022 11:47:10		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-c79d850e-e782-4657-aeee-252e9d2858c7	07.09.2022 11:49:26		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-f958bf8c-ee0f-4039-80e2-8d5c20c6398a	07.09.2022 11:49:36		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-9fd30d2c-f6ab-48a9-8a23-f16ead548600	07.09.2022 11:50:08		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-b512c398-35dd-48ed-b75e-3c7d27681c1b	07.09.2022 11:54:46		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-ef2aee13-9499-469c-a5be-3e7ae90a77d0	07.09.2022 12:04:29		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-a0ed5b95-da9f-407f-b489-33f667cd0042	07.09.2022 12:04:42		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-fbcae51d-cfb7-4c13-a84b-931b8a261882	07.09.2022 12:07:34		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
-0154b8a8-bec3-4ea4-9a81-b52d50244034	07.09.2022 12:10:44		Error: ENOENT: no such file or directory, open 'D:\Dima\Programming\JS\My tries\BACKEND\ExpressTest\modelss\users.json'
+
